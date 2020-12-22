@@ -5,7 +5,7 @@
 
 **About me:**
 
-- 🔭 I’m currently working on [CORTX](https://github.com/Seagate/cortx) as DevOps Engineer.
+- 🔭 I’m currently working on [CORTX](https://github.com/Seagate/cortx) as **DevOps Engineer**.
 - 💬 Ask me about **CI/CD, Infra and DevOps**
 
 ![Shailesh's github stats](https://github-readme-stats.vercel.app/api?username=shailesh-vaidya&show_icons=true&hide_border=true&theme=dark)
