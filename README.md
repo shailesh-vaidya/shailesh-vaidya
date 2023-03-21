@@ -1,9 +1,6 @@
-## Hey there 👋 I am Shailesh Vaidya
+## Hey there, I am Shailesh Vaidya 👋 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:skimeer@gmail.com)
-[![Linkedin: shailesh](https://img.shields.io/badge/-shailesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaileshvaidya/)](https://www.linkedin.com/in/shaileshvaidya/)
-- 🔭 I’m currently working as **DevOps Architect**.
-- 💬 Ask me about **CI/CD, Infra and DevOps**
+I'm a DevOps Architect with a passion for designing and implementing enterprise-level DevOps solutions. I specialize in cloud computing, containerization, automation, and CI/CD pipelines, and have worked with several organizations to help them streamline their software development and delivery processes.
 
 ## Technologies
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
@@ -19,3 +16,13 @@
 
 ## GitHub Stats
 ![Shailesh's github stats](https://github-readme-stats.vercel.app/api?username=shailesh-vaidya&show_icons=true&hide_border=true&theme=dark)
+
+<a href="https://github.com/shailesh-vaidya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-vaidya&theme=dark&hide=html" />
+</a>
+
+## Contact Me
+If you're interested in discussing DevOps, cloud computing, or anything else related to software development and delivery, please feel free to reach out to me on LinkedIn or via email. I'd love to connect with you!
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:skimeer@gmail.com)
+[![Linkedin: shailesh](https://img.shields.io/badge/-shailesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaileshvaidya/)](https://www.linkedin.com/in/shaileshvaidya/)
