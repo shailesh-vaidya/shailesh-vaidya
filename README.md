@@ -14,6 +14,10 @@ I'm a DevOps Architect with a passion for designing and implementing enterprise-
 ![Elasticsearch](https://img.shields.io/badge/-Elastcisearch-black?style=flat-square&logo=elasticsearch)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
+## Certifications
+
+[![CKA: Certified Kubernetes Administrator](assets/CKA.png)]([https://www.credly.com/badges/00a873b1-c4b1-4b5d-b4b0-9da4257d646b/public_url](https://www.credly.com/badges/575e4c17-2d05-4aab-97c6-c6223cb04ab6/public_url))
+
 ## GitHub Stats
 ![Shailesh's github stats](https://github-readme-stats.vercel.app/api?username=shailesh-vaidya&show_icons=true&hide_border=true&theme=dark)
 
