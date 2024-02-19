@@ -1,6 +1,6 @@
 ## Hey there, I am Shailesh Vaidya 👋 
 
-I'm a DevOps Architect with a passion for designing and implementing enterprise-level DevOps solutions. I specialize in cloud computing, containerization, automation, and CI/CD pipelines, and have worked with several organizations to help them streamline their software development and delivery processes.
+I am a passionate DevOps Architect with extensive experience in designing and implementing enterprise-level DevOps solutions. My expertise lies in cloud computing, containerization, automation, and CI/CD pipelines. Throughout my career, I've collaborated with numerous organizations to streamline their software development and delivery processes, enabling them to achieve greater efficiency and agility.
 
 ## Technologies
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
@@ -28,7 +28,5 @@ I'm a DevOps Architect with a passion for designing and implementing enterprise-
 </a>
 
 ## Contact Me
-If you're interested in discussing DevOps, cloud computing, or anything else related to software development and delivery, please feel free to reach out to me on LinkedIn or via email. I'd love to connect with you!
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:skimeer@gmail.com)
-[![Linkedin: shailesh](https://img.shields.io/badge/-shailesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaileshvaidya/)](https://www.linkedin.com/in/shaileshvaidya/)
+Feel free to reach out to me via [![Linkedin: shailesh](https://img.shields.io/badge/-shailesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaileshvaidya/)](https://www.linkedin.com/in/shaileshvaidya/) or [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:skimeer@gmail.com) for collaboration opportunities or to discuss anything related to DevOps, cloud computing, or automation.
